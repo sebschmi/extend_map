@@ -5,7 +5,7 @@ authors = ["Sebastian Schmidt <sebastian.schmidt@helsinki.fi>"]
 version = "0.14.2"
 license = "BSD-2-Clause"
 repository = "https://github.com/sebschmi/extend_map"
-rust-version = "1.31.1"
-edition = "2018"
+rust-version = "1.56.1"
+edition = "2021"
 
 [dependencies]
