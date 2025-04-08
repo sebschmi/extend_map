@@ -1,0 +1,11 @@
+[package]
+name = "extend_map"
+description = "A type to map values passed into an Extend type before extending."
+authors = ["Sebastian Schmidt <sebastian.schmidt@helsinki.fi>"]
+version = "0.14.1"
+license = "BSD-2-Clause"
+repository = "https://github.com/sebschmi/extend_map"
+rust-version = "1.31.1"
+edition = "2018"
+
+[dependencies]
