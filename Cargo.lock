@@ -4,4 +4,4 @@ version = 3
 
 [[package]]
 name = "extend_map"
-version = "0.14.3"
+version = "0.14.4"
